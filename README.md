@@ -4,3 +4,8 @@
 <h1 align="center">Machine Learning Leaf Node</h1>
 
 An optimal start node for beginning your machine learning journey
+
+
+### 📁 algorithms
+
+* Perceptron [🔗](algorithms/perceptron.ipynb)
