@@ -8,4 +8,13 @@ An optimal start node for beginning your machine learning journey
 
 ### 📁 algorithms
 
-* Perceptron [🔗](algorithms/perceptron.ipynb)
+* [↖️](algorithms/perceptron.ipynb) Perceptron 
+
+### 📁 applications
+
+* [↖️](applications/Parkinson's%20Disease%20classification.ipynb) Parkinson's Disease classification 📄[data][app_parkinson_data] - 📊[article][app_parkinson_article]
+
+
+
+[app_parkinson_data]: https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification#
+[app_parkinson_article]: https://linkinghub.elsevier.com/retrieve/pii/S1568494618305799
