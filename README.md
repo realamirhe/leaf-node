@@ -9,6 +9,7 @@ An optimal start node for beginning your machine learning journey
 ### 📁 algorithms
 
 * [↖️](algorithms/perceptron.ipynb) Perceptron 
+* [↖️](algorithms/regression.ipynb) Regression 
 
 ### 📁 applications
 
