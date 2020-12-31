@@ -8,9 +8,10 @@ An optimal start node for beginning your machine learning journey
 
 ### 📁 algorithms
 
-* [↖️](algorithms/perceptron.ipynb) Perceptron 
-* [↖️](algorithms/regression.ipynb) Regression 
+* [↖️](algorithms/perceptron.ipynb) Perceptron
+* [↖️](algorithms/regression.ipynb) Regression
 * [↖️](algorithms/LDA.ipynb) Linear Discriminant Analysis(LDA)
+* [↖️](algorithms/PCA.ipynb) Principal Component Analysis(PCA)
 
 ### 📁 applications
 
