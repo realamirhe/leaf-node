@@ -131,7 +131,5 @@ dmypy.json
 # Editors and IDE
 .vscode
 
-# data (csv, xlsx,...)
-*.csv
-*.xlsx
-*.npz
+# data (csv, xlsx, npz,...)
+__data__
