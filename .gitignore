@@ -130,9 +130,11 @@ dmypy.json
 
 # Editors and IDE
 .vscode
+.idea
 
 # data (csv, xlsx,...)
 *.csv
 *.xlsx
 *.npz
 *.mat
+
