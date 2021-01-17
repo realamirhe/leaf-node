@@ -132,9 +132,5 @@ dmypy.json
 .vscode
 .idea
 
-# data (csv, xlsx,...)
-*.csv
-*.xlsx
-*.npz
-*.mat
-
+# data (csv, xlsx, npz,...)
+__data__
