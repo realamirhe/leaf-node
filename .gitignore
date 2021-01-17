@@ -130,6 +130,7 @@ dmypy.json
 
 # Editors and IDE
 .vscode
+.idea
 
 # data (csv, xlsx, npz,...)
 __data__
