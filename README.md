@@ -19,8 +19,7 @@ An optimal start node for beginning your machine learning journey
 * [↖️](applications/face%20reconstruction%20with%20PCA.ipynb) Face Reconstruction with PCA
 
 ## 🆕 🔥 [SMLFDL](applications/SMLFDL.py)  - 📄[article][SMLFDL_article]
-
-<p align="center"><sub><b>SVMs multi-class loss feedback based discriminative dictionary learning for image classification</b></sub></p>  
+<sub><b>SVMs multi-class loss feedback based discriminative dictionary learning for image classification</b></sub>  
 
 analysis has been done on scene-15 dataset.   
 Feature vectors has been prepared by four-level `spatial pyramid`, dense `DAISY` feature description followed by PCA.  
