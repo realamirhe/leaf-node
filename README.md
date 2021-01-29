@@ -21,6 +21,10 @@ An optimal start node for beginning your machine learning journey
 ## 🆕 🔥 [SMLFDL](applications/SMLFDL.py)  - 📄[article][SMLFDL_article]
 <sub><b>SVMs multi-class loss feedback based discriminative dictionary learning for image classification</b></sub>  
 
+> SMLFDL integrates dictionary learning and support vector machines training into a unified learning
+framework by looping the designed multi-class loss term, which
+is inspired by the feedback mechanism in cybernetics.
+
 analysis has been done on scene-15 dataset.   
 Feature vectors has been prepared by four-level `spatial pyramid`, dense `DAISY` feature description followed by PCA.  
 As article proposed SMLFDL are faster in predictions and converge in lower epochs.  
