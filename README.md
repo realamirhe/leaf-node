@@ -18,8 +18,7 @@ An optimal start node for beginning your machine learning journey
 * [↖️](applications/Parkinson's%20Disease%20classification.ipynb) Parkinson's Disease classification 📊[data][app_parkinson_data] - 📄[article][app_parkinson_article]
 * [↖️](applications/face%20reconstruction%20with%20PCA.ipynb) Face Reconstruction with PCA
 
-## 🆕 🔥
-* [↖️](applications/SMLFDL.py) SMLFDL  - 📄[article][SMLFDL_article]
+## 🆕 🔥 [SMLFDL](applications/SMLFDL.py)  - 📄[article][SMLFDL_article]
 
 <p align="center"><sub><b>SVMs multi-class loss feedback based discriminative dictionary learning for image classification</b></sub></p>  
 
