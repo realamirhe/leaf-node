@@ -8,10 +8,16 @@ An optimal start node for beginning your machine learning journey
 
 ### 📁 algorithms
 
+* [↖️](algorithms/KMeans.ipynb) KMeans
+* [↖️](algorithms/KNN.ipynb) K-Nearest Neighbors(KNN)
+* [↖️](algorithms/LDA.ipynb) Linear Discriminant Analysis(LDA)
+* [↖️](algorithms/Logistic%20Regression.ipynb) Logistic Regression
+* [↖️](algorithms/Naive%20Bayes.ipynb) Naïve Bayes
+* [↖️](algorithms/PCA.ipynb) Principal Component Analysis(PCA)
+* [↖️](algorithms/StochasticGradientDescent.ipynb) StochasticGradientDescent(SGD)
 * [↖️](algorithms/perceptron.ipynb) Perceptron
 * [↖️](algorithms/regression.ipynb) Regression
-* [↖️](algorithms/LDA.ipynb) Linear Discriminant Analysis(LDA)
-* [↖️](algorithms/PCA.ipynb) Principal Component Analysis(PCA)
+
 
 ### 📁 applications
 
